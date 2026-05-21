@@ -5,7 +5,6 @@ This project is the final capstone for my Data Technology program. It explores a
 ## Original dataset:  
 https://www.kaggle.com/datasets/jayavarman/bike-sales-data-of-100k
 
----
 
 ## Project Objectives
 
@@ -15,7 +14,6 @@ This analysis was designed to answer the following business questions:
 - How do sales trends differ across store locations?
 - Can we design a performance metric to evaluate and motivate employee sales performance?
 
----
 
 ## Tools & Methods
 
@@ -32,7 +30,6 @@ This analysis was designed to answer the following business questions:
 - **Visualization:**
 - Interactive Power BI dashboard with multiple pages and slicers
 
----
 
 ## Key Findings
 
@@ -42,7 +39,6 @@ This analysis was designed to answer the following business questions:
 
 These insights can help management refine store-level goals, adjust operational strategies, and improve employee performance tracking.
 
----
 
 ## Dashboard Overview
 
